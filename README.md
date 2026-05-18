@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Ngoc Phuc</h1>
 <h3 align="center">A passionate Web Developer from Vietnam</h3>
 
 <p align="center">
@@ -77,3 +77,10 @@
 </p>
 
 <h3 align="center">Thanks for visiting 😎</h3>
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
