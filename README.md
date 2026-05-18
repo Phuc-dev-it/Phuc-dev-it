@@ -2,14 +2,14 @@
 <h3 align="center">A passionate Web Developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Web+Developer;Backend+Developer;Node.js+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Fullstack Development**
+- 🌱 Currently learning **Backend Development**
 - 💻 Working with **JavaScript, Node.js, MySQL**
 - ⚡ Interested in Backend & Database Systems
 - 🎯 Goal: Become a professional software engineer
