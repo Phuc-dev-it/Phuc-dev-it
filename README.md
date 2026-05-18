@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Phúc</h1>
-<h3 align="center">A passionate Web Developer from Vietnam 🇻🇳</h3>
+<h3 align="center">A passionate Backend Developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%26+Python+Enthusiast;Building+APIs+and+Databases;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Backend Development**
-- 💻 Working with **JavaScript, Node.js, MySQL**
-- ⚡ Interested in Backend & Database Systems
+- 🌱 Currently learning **Backend Development & System Design**
+- 💻 Working with **JavaScript, Python, Node.js**
+- ⚡ Interested in **Backend Systems & Databases**
 - 🎯 Goal: Become a professional software engineer
-- ☕ Debugging code until reality collapses
+- ☕ Turning coffee into backend logic because humans enjoy suffering
 
 ---
 
@@ -21,12 +21,12 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,java" />
+  <img src="https://skillicons.dev/icons?i=js,c,python" />
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,mongodb" />
 </p>
 
 ### 🧰 Tools
