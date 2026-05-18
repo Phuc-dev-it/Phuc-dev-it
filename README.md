@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ngoc Phuc</h1>
-<h3 align="center">A passionate Web Developer from Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Phúc</h1>
+<h3 align="center">A passionate Web Developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Backend+Developer;Learning+New+Things+Everyday;Building+Cool+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Web+Developer;Backend+Developer;Node.js+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -10,10 +10,10 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **Fullstack Development**
-- 💻 Love working with **JavaScript, Node.js, MySQL**
-- ⚡ Goal: Become a professional software engineer
-- 🎯 Focused on improving coding skills every day
-- ☕ Surviving with caffeine and broken code
+- 💻 Working with **JavaScript, Node.js, MySQL**
+- ⚡ Interested in Backend & Database Systems
+- 🎯 Goal: Become a professional software engineer
+- ☕ Debugging code until reality collapses
 
 ---
 
@@ -39,9 +39,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phuc-dev-it&show_icons=true&theme=tokyonight" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phuc-dev-it&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -49,7 +49,15 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Phuc-dev-it&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Phuc-dev-it&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -57,30 +65,15 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Phuc-dev-it">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-
-  <a href="https://facebook.com/yourfacebook">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
-
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Phuc-dev-it&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="center">Thanks for visiting 😎</h3>
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+<h3 align="center">Thanks for visiting 🚀</h3>
